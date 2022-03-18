@@ -1,12 +1,12 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Tiered Bad Bank_starterfiles" />
+  <img src="./.github/myimage.gif" alt="Tiered Bad Bank" />
 
   &#xa0;
 
   <!-- <a href="https://tieredbadbank_starterfiles.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">Tiered Bad Bank_starterfiles</h1>
+<h1 align="center">Tiered Bad Bank</h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{YOUR_GITHUB_USERNAME}}/tiered-bad-bank_starterfiles?color=56BEB8">
@@ -24,13 +24,13 @@
   <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{YOUR_GITHUB_USERNAME}}/tiered-bad-bank_starterfiles?color=56BEB8" /> -->
 </p>
 
-<!-- Status -->
+<!--Status -->
 
-<!-- <h4 align="center"> 
-	🚧  Tiered Bad Bank_starterfiles 🚀 Under construction...  🚧
+<h4 align="center"> 
+	🚧  Tiered Bad Bank 🚀 Under construction...  🚧
 </h4> 
 
-<hr> -->
+<hr> 
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
