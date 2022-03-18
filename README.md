@@ -46,7 +46,7 @@
 
 ## :dart: About ##
 
-The design of Web app for banking applications always are a great challenge to developers. For thta reason this a project to full stack banking application. The Bad Bank project is refactoring front end application and also build with back end application to make it a complete app. THe user will fill a form with his name, email and password. He will take actions of deposit and withdraw his money. Finally he can get access to all his transactions.
+The design of Web app for banking applications always are a great challenge to developers. For that reason this a project to full stack banking application. The Bad Bank project is refactoring front end application and also build with back end application to make it a complete app. THe user will fill a form with his name, email and password. He will take actions of deposit and withdraw his money. Finally he can get access to all his transactions.
 
 ## :sparkles: Features ##
 
