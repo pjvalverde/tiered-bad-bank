@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./.github/myimage.gif" alt="Tiered Bad Bank" />
+  <img src="https://github.com/pjvalverde/tiered-bad-bank/blob/main/myimage.gif" alt="Tiered Bad Bank" />
 
   &#xa0;
 
