@@ -52,7 +52,7 @@ The design of Web app for banking applications always are a great challenge to d
 
 :heavy_check_mark: Simple and elegant;\
 :heavy_check_mark: A project calls for team work, which is constitued with designers UI, full stack developers.;\
-:heavy_check_mark: A project has a life cycle refelcted by growth, maturity and decay;
+:heavy_check_mark: A project has a life cycle reflected by growth, maturity and decay;
 
 ## :rocket: Technologies ##
 
@@ -76,7 +76,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 $ git clone https://github.com/pjvalverde/tiered-bad-bank
 
 # Access
-$ cd tiered-bad-bank_starterfiles
+$ cd tiered-bad-bank
 
 # Install dependencies
 $ yarn
